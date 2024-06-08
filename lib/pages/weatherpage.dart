@@ -57,7 +57,6 @@ class _weatherpageState extends State<weatherpage> {
   }
 
   //INIT state
-  @override
   void initstate() {
     super.initState();
 
